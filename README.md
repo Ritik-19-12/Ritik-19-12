@@ -99,13 +99,6 @@ A social-media-style web application built while learning Django backend develop
 
 **Tech:** Python • Django • SQLite • Bootstrap
 
----
-
-### 🧾 Barcode Billing App
-
-A billing application focused on product management and barcode-based billing.
-
-**Tech:** Python • Flask • SQL
 
 ---
 
