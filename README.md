@@ -21,6 +21,12 @@ My current focus is on:
 * 📚 Continuously improving my software engineering fundamentals
 
 I like learning by **building real projects**, debugging them, and understanding the complete flow from **frontend → API → backend → database**.
+## 🌐 Portfolio
+
+Check out my portfolio to learn more about me, my projects, skills, and experience.
+
+**👉 [Visit My Portfolio](portfolio-six-weld-fgolyq4sdr.vercel.app)**
+
 
 ---
 
