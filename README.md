@@ -25,7 +25,7 @@ I like learning by **building real projects**, debugging them, and understanding
 
 Check out my portfolio to learn more about me, my projects, skills, and experience.
 
-**👉 [Visit My Portfolio](portfolio-six-weld-fgolyq4sdr.vercel.app)**
+**👉 [Visit My Portfolio](https://portfolio-six-weld-fgolyq4sdr.vercel.app)**
 
 
 ---
