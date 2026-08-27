@@ -139,19 +139,6 @@ AI
  ↓
 RAG → Vector Search → LLM Applications
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ritik-19-12&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-19-12&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🔥 Contribution Streak
